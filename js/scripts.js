@@ -14,8 +14,6 @@ function learn(){
         document.getElementById("input-container").classList.add('hide');
         document.getElementById("learn-container").classList.remove('hide');
     }
-
-
 }
 
 function highlightText(markAsError = false, previous = false){
